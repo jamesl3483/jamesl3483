@@ -1,4 +1,4 @@
-- 👋 Hi, my name is James Lukas. I'm currently a sophomore in Santa Monica College and I want to transfer into as an electrical engineering major or computer science and engineering major. 
+- 👋 Hi, my name is James Lukas. I'm currently a Junior in University of California Berkeley in Electrical Engineering and Computer Science.
  
 - 👀 I’m interested in learning more about coding and I hope to be able to use to in my future career where I want to work with both the hardware and software. Right now I am leaning towards a systems engineer career. However, nothing is set in stone and I hope I get lucky enough to get some opportunities.
 

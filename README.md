@@ -1,7 +1,7 @@
 - 👋 Hi, my name is James Lukas. I'm currently a Junior in University of California Berkeley in Electrical Engineering and Computer Science.
  
-- 👀 I’m interested in learning more about coding and I hope to be able to use to in my future career where I want to work with both the hardware and software. Right now I am leaning towards a systems engineer career. However, nothing is set in stone and I hope I get lucky enough to get some opportunities.
-
+- 👀 This github's public repos are random repos that I havent gotten around to delete yet. Most of the stuff I am working on is private so, we'll see if there are any meaningful projects that can be put public for now.
+  
 - 📫You can reach me on Jlukas6249@gmail.com for whatever reason. 
 
 <!---

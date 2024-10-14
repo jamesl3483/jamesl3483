@@ -1,4 +1,4 @@
-- 👋 Hi, my name is James Lukas. I'm currently a Junior in University of California Berkeley in Electrical Engineering and Computer Science.
+- 👋 Hi, my name is James Lukas. I'm currently a Senior in University of California Berkeley in Electrical Engineering and Computer Science.
  
 - 👀 This github's public repos are random repos that I havent gotten around to delete yet. Most of the stuff I am working on is private so, we'll see if there are any meaningful projects that can be put public for now.
   
